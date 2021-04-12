@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".CreatePostActivity">
+
+    <include layout="@layout/header"/>
+
+    <EditText
+        android:id="@+id/postInput"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:hint="What do you want to talk about?"
+        android:gravity="top"
+        android:layout_margin="12dp"
+        android:padding="12dp"
+        android:background="@drawable/edittext_round_shape"/>
+
+    <ImageView
+        android:id="@+id/imagepreview"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:hint="What do you want to talk about?"
+        android:gravity="top"
+        android:layout_margin="12dp"
+        android:padding="12dp"
+        android:src="@drawable/ic_baseline_add_a_photo_24"/>
+
+<!--        android:background="@drawable/edittext_round_shape"/>-->
+
+    <Button
+        android:id="@+id/chooseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:layout_marginTop="276dp"
+        android:background="@drawable/edittext_round_shape"
+        android:text="CHOOSE IMAGE"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/postInput" />
+
+    <Button
+        android:id="@+id/postButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:layout_marginTop="276dp"
+        android:background="@drawable/edittext_round_shape"
+        android:text="POST"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/postInput" />
+
+
+</LinearLayout>

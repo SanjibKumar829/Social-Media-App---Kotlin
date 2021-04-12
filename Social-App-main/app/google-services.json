@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "983039163535",
+    "firebase_url": "https://gamemandarin-b18d2.firebaseio.com",
+    "project_id": "gamemandarin-b18d2",
+    "storage_bucket": "gamemandarin-b18d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983039163535:android:8f1811428d4ff9faf004fa",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983039163535-mojes9h8bmjrbphoo4f0icjg4p6sljtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialapp",
+            "certificate_hash": "8aec5d6ff4059a53d2ecc132cb149aad1d41135f"
+          }
+        },
+        {
+          "client_id": "983039163535-g7shairpctlf5a1kmlphuj9b7f2j5d2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEgwjnYRg5SJQQQDVhUhl__3_Dfgr-JjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983039163535-g7shairpctlf5a1kmlphuj9b7f2j5d2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983039163535:android:f52411606f06a7f6f004fa",
+        "android_client_info": {
+          "package_name": "com.sanjib.fetchimagepubg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983039163535-u3lmfc8ehrdjdncg480gsa95geq2bsa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanjib.fetchimagepubg",
+            "certificate_hash": "8aec5d6ff4059a53d2ecc132cb149aad1d41135f"
+          }
+        },
+        {
+          "client_id": "983039163535-g7shairpctlf5a1kmlphuj9b7f2j5d2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEgwjnYRg5SJQQQDVhUhl__3_Dfgr-JjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983039163535-g7shairpctlf5a1kmlphuj9b7f2j5d2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983039163535:android:06b4f53209b26394f004fa",
+        "android_client_info": {
+          "package_name": "com.sanjib.gamemadarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983039163535-m38ir1vki4hplj2682koiuq8oh2p4eed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanjib.gamemadarin",
+            "certificate_hash": "8aec5d6ff4059a53d2ecc132cb149aad1d41135f"
+          }
+        },
+        {
+          "client_id": "983039163535-g7shairpctlf5a1kmlphuj9b7f2j5d2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEgwjnYRg5SJQQQDVhUhl__3_Dfgr-JjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983039163535-g7shairpctlf5a1kmlphuj9b7f2j5d2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
